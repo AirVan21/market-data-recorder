@@ -1,0 +1,3 @@
+[submodule "Dependencies/bitvavo-connector"]
+	path = Dependencies/bitvavo-connector
+	url = https://github.com/AirVan21/bitvavo-connector.git
